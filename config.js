@@ -45,13 +45,13 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/xxxxxxxxx"
+global.urlnya = "https://www.instagram.com/rangga_botz"
 global.gcbot = 'ɢʀᴏᴜᴩ ʙᴏᴛ'
 global.gcurl = "https://chat.whatsapp.com/xxxxxxxxxxx"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 8156299020'
+global.phn = '+62 85779150501'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
