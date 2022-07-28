@@ -2,10 +2,8 @@ let handler = async (m, { conn, usedPrefix }) => {
 conn.sendButton(m.chat, `
 ╭─「 *DONASI* 」
 │ > Ingin donasi ke BOT?
-│ > Paypal : https://paypal.me/balhisyhrl
-│ > Dana : 085156299020
-│ > Gopay : 085156299020
-│ > Perfect Money : U39360574
+│ > Dana : 085779150501
+│ > Pulsa : 085779150501
 │ _Hasil donasi akan dipakai untuk membuat BOT ONLINE 24 JAM_
 ╰────
 `.trim(), wm, 'Menu', usedPrefix + 'menu', m)
